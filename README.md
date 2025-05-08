@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **fzdraag4@gmail.com**
 
-- 📄 Know about my experiences [SOON](SOON)
+- 📄 Know about my experiences [My Website]([SOON](https://prasoonportfolio0.netlify.app/))
 
 - ⚡ Fun fact **Programming is always fun**
 
